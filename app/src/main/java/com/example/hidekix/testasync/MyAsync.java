@@ -10,6 +10,9 @@ import android.widget.TextView;
 /**
  * Created by hidekix on 2015/07/05.
  */
+
+//temp hidekix
+
 public class MyAsync extends AsyncTask<String,Integer, String> {
 
     private String TAG = "MyAsync";
